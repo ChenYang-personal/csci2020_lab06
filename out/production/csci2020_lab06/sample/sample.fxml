@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.shape.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="681.0" prefWidth="930.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ff1f5e" height="206.0" layoutX="37.0" layoutY="307.0" stroke="BLACK" strokeType="INSIDE" width="17.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="55.0" layoutX="60.0" layoutY="458.0" stroke="BLACK" strokeType="INSIDE" width="17.0" />
+      <Circle fill="#cd885e" layoutX="598.0" layoutY="415.0" radius="100.0" stroke="BLACK" strokeType="INSIDE" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="48.0" layoutX="20.0" layoutY="465.0" stroke="BLACK" strokeType="INSIDE" width="17.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="63.0" layoutX="105.0" layoutY="450.0" stroke="BLACK" strokeType="INSIDE" width="17.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="70.0" layoutX="151.0" layoutY="443.0" stroke="BLACK" strokeType="INSIDE" width="17.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="77.0" layoutX="193.0" layoutY="436.0" stroke="BLACK" strokeType="INSIDE" width="17.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="83.0" layoutX="237.0" layoutY="430.0" stroke="BLACK" strokeType="INSIDE" width="17.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="90.0" layoutX="278.0" layoutY="423.0" stroke="BLACK" strokeType="INSIDE" width="17.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="98.0" layoutX="324.0" layoutY="415.0" stroke="BLACK" strokeType="INSIDE" width="17.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ff1f5e" height="220.0" layoutX="77.0" layoutY="293.0" stroke="BLACK" strokeType="INSIDE" width="17.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ff1f5e" height="288.0" layoutX="341.0" layoutY="225.0" stroke="BLACK" strokeType="INSIDE" width="17.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ff1f5e" height="273.0" layoutX="295.0" layoutY="240.0" stroke="BLACK" strokeType="INSIDE" width="17.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ff1f5e" height="259.0" layoutX="254.0" layoutY="254.0" stroke="BLACK" strokeType="INSIDE" width="17.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ff1f5e" height="248.0" layoutX="210.0" layoutY="265.0" stroke="BLACK" strokeType="INSIDE" width="17.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ff1f5e" height="236.0" layoutX="168.0" layoutY="277.0" stroke="BLACK" strokeType="INSIDE" width="17.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ff1f5e" height="226.0" layoutX="125.0" layoutY="287.0" stroke="BLACK" strokeType="INSIDE" width="17.0" />
+      <Arc fill="DODGERBLUE" layoutX="598.0" layoutY="415.0" length="23.0" radiusX="100.0" radiusY="100.0" startAngle="-8.1" stroke="BLACK" strokeType="INSIDE" type="ROUND" />
+      <Arc fill="#eb6fe3" layoutX="598.0" layoutY="415.0" length="60.0" radiusX="100.0" radiusY="100.0" startAngle="-63.4" stroke="BLACK" strokeType="INSIDE" type="ROUND" />
+      <Arc fill="#1fff30" layoutX="598.0" layoutY="415.0" length="60.0" radiusX="100.0" radiusY="100.0" startAngle="-119.5" stroke="BLACK" strokeType="INSIDE" type="ROUND" />
+      <Arc fill="#ff5e1f" layoutX="598.0" layoutY="415.0" length="60.0" radiusX="100.0" radiusY="100.0" startAngle="57.8" stroke="BLACK" strokeType="INSIDE" type="ROUND" />
+      <Arc fill="#ebf226" layoutX="598.0" layoutY="415.0" length="45.0" radiusX="100.0" radiusY="100.0" startAngle="14.7" stroke="BLACK" strokeType="INSIDE" type="ROUND" />
+   </children>
+</Pane>
